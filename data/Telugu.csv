@@ -1,4 +1,4 @@
-s,r,g,m,p,d,n,Others,Melakarta,Janya,Key,Beats,Song,Album
+s,r,g,m,p,d,n,Other,Melakarta,Janya,Key,TS,Song,Album
 s,r1,g1,m1,p,d1,n1,,Kanakangi ,,,,Sri gana natham bhajamyaham,Sruthilayalu 
 s,r1,g1,m1,p,d1,n2,,Ratnangi ,,Fsus,,Gandhamu puyyaruga,Subhodayam 
 s,r1,,m1,p,,n2,,Ratnangi ,Revathi ,,,Jhummandhi naadham,Siri siri muvva 
@@ -165,7 +165,6 @@ s,,g2,m1,,d1,n3,,Keeravani ,Kadaram / Chandra / Chandrakauns ,,,Aakasana suryudu
 s,,g2,m1,p,,n3,,Keeravani ,Srothaswini / Udayaravichandrika,Em,,Jai chiranjeeva,Jagadeka veeru athiloka sundhari 
 s,,g2,m1,p,,n3,,Keeravani ,Srothaswini / Udayaravichandrika,Gm,,Sumam prathi sumam sumam,Maharshi 
 s,,g2,m1,p,,n3,,Keeravani ,Srothaswini / Udayaravichandrika,Gm,,Inka inka,Sundara kaanda 
-s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Dm,6,Aamani paadavey haayiga,Geethanjali 
 s,r2,g2,m1,p,d2,n2,"g3, d1, n3",Kharaharapriya ,,C#m,,Aakaasam enatido ,Nireekshana
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Dm,,Aakulo aakunai,Meghasandesam 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,,,Aaskasa veedhilo hayiga egirevu,Malliswari 
@@ -197,7 +196,7 @@ s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Kalaya nijama tholi reyi,Kooli No 1
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Kannulatho choosevi,Jeans 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Dm,,Kanulu therachina kanulu moosina,Anandam 
 s,r2,g2,m1,p,d2,n2,g3,Kharaharapriya ,,D#m,,Kasthuri ranga ranga,Zamindaru 
-s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Kontey chooputho,Ananthapuram 1980 
+s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Kontey chuputho,Ananthapuram 1980 
 s,r2,g2,m1,p,d2,n2,n3,Kharaharapriya ,,Bm,,Kothi bavaku pellantaa kovela thotey,Malliswari 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Em,,Krishnam kalaya sakhi sundaram,Pelli pustakam 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Madhuram madhuram ee samayam,Bharya Bharthalu 
@@ -264,6 +263,7 @@ s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,Fsus,,Ramya krishna laga untada,
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,Csus,,Sankara nada sarirapara,Sankarabharanam 
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,Fsus,,Sarigama padanisa ragam,Pelli sandhadi 
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,Gsus,,Sirilolikinche chinni navvuley,Yamaleela
+s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,D#sus,,Sittharala sirapadu,Alaa vaikuntha puramulo
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,D#sus,,Sri seetha ramula kalyanamu,Sita rama kalyanam 
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,A#sus,,Srirasthu subhamasthu,Pelli pusthakam 
 s,r2,,m1,p,,n2,,Kharaharapriya ,Madhyamaavathi ,Esus,3,Suvvi suvvii suvvaalamma,Swathi muthyam 
@@ -331,7 +331,7 @@ s,,g2,m1,p,,n2,,Kharaharapriya ,Udayaravichandrika / Shuddha Dhanyasi ,Dm,,Prema
 s,,g2,m1,p,,n2,,Kharaharapriya ,Udayaravichandrika / Shuddha Dhanyasi ,Fm,,Railu bandi railu bandi,Gangotri 
 s,,g2,m1,p,,n2,,Kharaharapriya ,Udayaravichandrika / Shuddha Dhanyasi ,C#m,,Subhalekha raasukunna,Kondaveeti donga 
 s,,g2,m1,p,,n2,,Kharaharapriya ,Udayaravichandrika / Shuddha Dhanyasi ,C#m,,Virinchinai virichinchithini,Siri vennela 
-s,r2,g2,m1,p,d2,n3,,Gourimanohari ,,D#m,,Allantha doorala aa taraka,Aadavari matalaku ardhaley veruley
+s,r2,g2,m1,p,d2,n3,g3,Gourimanohari ,,D#m,,Allantha dhurala aa taraka,Aadavari matalaku ardhaley veruley
 s,r2,g2,m1,p,d2,n3,,Gourimanohari ,,Em,,Chalaki chinnadhi undhi,Naayakudu 
 s,r2,g2,m1,p,d2,n3,g3,Gourimanohari ,,Em,,Chittinadumuney chuusthunna,Gudumba shankar
 s,r2,g2,m1,p,d2,n3,,Gourimanohari ,,C#m,,Ee gali ee nela ee vooru selayeru,Sirivennela 
@@ -351,6 +351,7 @@ s,r2,g3,m1,p,d1,n2,,Charukesi ,,,,Ragam thanam pallavi,Sankarabharanam
 s,r2,g3,,p,d1,n2,,Charukesi ,?,F,6,Theli manchu kurisindhi,Swathi kiranam 
 s,r2,g3,m1,p,d1,n3,,Sarasangi ,,G,,Vachchey vachchey nalla mabbullaara,Anand
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Aaduthu padhuthu pani chesthuntey,Thodi kodallu 
+s,r2,g3,m1,p,d2,n2,d1,Harikambhoji ,,G,6,Aamani paadavey haayiga,Geethanjali 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,F#,,Andhagaada andhagada,Gharshana
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Bhaley chansuley lucky chansuley,Illarikam 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,E,,Chukkalaaraa chuupullaaraa,Aapatbaandhavudu
