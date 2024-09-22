@@ -9,10 +9,8 @@
     <meta name="author" content="Sunil Peesapati">
     <meta content="List of Telugu film songs and the Raga scales they are based on">
 
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.1.7/datatables.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -21,7 +19,7 @@
             <div class="col">
                 <h2 align="center">Carnatic Ragas of Telugu Songs</h2>
                 
-                <h4>Note:</h4>
+                <h5>Note:</h5>
                 <p>
                     1. This list is only for the SCALE and not the actual RAGAM. 
                     For example, songs in the ragam Abheri are listed under Kharaharapriya. <br>
@@ -42,11 +40,10 @@
             </div>
         </footer>
     </div>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.1.7/datatables.min.js"></script>
     <script src="js/jquery.csv.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
     <script src="js/csv_to_html_table.js"></script>
 
     <script>
@@ -68,7 +65,6 @@
                 paging: false
             },
             custom_formatting: [
-                [4, format_link]
             ]
         });
     </script>
