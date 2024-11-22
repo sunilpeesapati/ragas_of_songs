@@ -1,14 +1,9 @@
 s,r,g,m,p,d,n,Other,Melakarta,Janya,Key,TS,Song,Album
-s,r1,g1,m1,p,d1,n1,,Kanakangi ,,,,Sri gana natham bhajamyaham,Sruthilayalu 
+s,r1,g1,m1,p,d1,n1,,Kanakangi ,,C#sus,,Sri gana natham bhajamyaham,Sruthilayalu 
 s,r1,g1,m1,p,d1,n2,,Ratnangi ,,Fsus,,Gandhamu puyyaruga,Subhodayam 
-s,r1,,m1,p,,n2,,Ratnangi ,Revathi ,,,Jhummandhi naadham,Siri siri muvva 
+s,r1,,m1,p,,n2,,Ratnangi ,Revathi ,C#sus,,Jhummandhi naadham,Siri siri muvva 
 s,r1,,m1,p,,n2,,Ratnangi ,Revathi ,Csus,,Naa gonthu sruthiloonaa,Jaanaki raamudu 
 s,r1,,m1,p,,n2,,Ratnangi ,Revathi ,Dsus,,Ye theega poovuno ye komma,Maro charithra 
-s,r1,g1,m1,p,d1,n3,,Ganamurti ,,,,,
-s,r1,g1,m1,p,d2,n2,,Vanaspati ,,,,,
-s,r1,g1,m1,p,d2,n3,,Manavati ,,,,,
-s,r1,g1,m1,p,d3,n3,,Tanarupi ,,,,,
-s,r1,g2,m1,p,d1,n1,,Senavati ,,,,,
 s,r1,g2,m1,p,d1,n2,r2,Hanumatodi ,,C#m,,Bhale bhale andhaalu srustinchavu,Bhaktha thukaram 
 s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Em,,Cheppavey prema,Manasantha nuvve
 s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Cm,,Eymito ee maya challani raja,Missamma 
@@ -33,14 +28,8 @@ s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Dm,6,Simhachalamu maha punya ksethramu,Simhacha
 s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Cm,,Tharaka mantramu korina dorikenu,Ramadasu keerthana 
 s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Gm,,Thillana thillana,Muthu 
 s,r1,g2,m1,p,d1,n2,,Hanumatodi ,,Gm,6,Vaanochenantey varadosthadhi,Tagore 
-s,r1,g2,,p,d1,,,Hanumatodi ,Bhoopalam ,,,,
 s,,g2,m1,p,d1,n2,,Hanumatodi ,Divyamalati,C#m,,Marugelara o raghava,Saptha padhi 
 s,r1,g2,m1,p,d1,n3,,Dhenuka ,,Gm,,Anando Brahma ,Shiva
-s,r1,g2,m1,p,d2,n2,,Natakapriya ,,,,,
-s,r1,g2,m1,p,d2,n3,,Kokilapriya ,,,,,
-s,r1,g2,m1,p,d3,n3,,Rupavati ,,,,,
-s,r1,g3,m1,p,d1,n1,,Gayakapriya ,,,,,
-s,r1,g3,m1,p,d1,n2,,Vakulabharanam ,,,,,
 s,r1,g3,m1,,d1,n2,,Vakulabharanam ,Vasantha bhairavi ,,,Nee daya radha,Pooja 
 s,r1,g3,m1,p,d1,n3,,Mayamalavagowla ,,C#,,Chamaku chamaku cham,Kondaveeti donga 
 s,r1,g3,m1,p,d1,n3,,Mayamalavagowla ,,,,Ey nimishaniki emi jaruguno,Lava kusa 
@@ -55,9 +44,6 @@ s,r1,g3,m1,p,d2,n2,,Chakravakam ,,A#,,Pibare raamarasam,Raagam
 s,r1,g3,,p,d2,n2,,Chakravakam ,Malayamarutam ,,,Abhinava tharavo,Siva ranjani 
 s,r1,g3,,p,d2,n2,,Chakravakam ,Malayamarutam ,,,Inni raasula yuniki,Sruthilayalu 
 s,,g3,,p,d2,n2,,Chakravakam ,Valaji ,,,Siva poojaku chivurinchina,Swarna kamalam 
-s,r1,g3,m1,p,d2,n3,,Suryakantam ,,,,,
-s,r1,g3,m1,p,d3,n3,,Hatakambari ,,,,,
-s,r2,g2,m1,p,d1,n1,,Jhankaradhwani ,,,,,
 s,r2,g2,m1,p,d1,n2,d2,Natabhairavi ,,Gm,,Aananda maananda maye M,Subhakankshalu
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Gm,,Adigaa adigaa,Ninnu kori
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Dm,,Aha emi ruchi anara maimarachi vankaya,Egire pavurama 
@@ -74,7 +60,7 @@ s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Gm,,Ee reyi theeyanidhi,Johnny
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Cm,,Ela ela naalo kala,Panjaa
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Gm,4,Etoo vellipooyindhi manasu,Ninne pelladatha
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Am,,Gala Gala paaruthunna,Pokiri
-s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,,,Gaaley naa vaakitikochchey,Rhythm 
+s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,D#m,,Gaaley naa vaakitikochchey,Rhythm 
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,,,Govinda govinda,Khadgam
 s,r2,g2,m1,p,d1,n2,g3,Natabhairavi ,,,,Haira haira hairabba,Jeans 
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,,,Hello doctor,Prema desam 
@@ -82,7 +68,7 @@ s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Am,"6, 4",Innallaku gurthochana vaana,Varsham
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Dm,,Inthandanga unnave,Don 
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Dm,6,Jaamu rathiri jabilamma,Kshana Kshanam
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Cm,,Jalakalaatalalo kala kala patalalo,Jagadeka veeruni katha 
-s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,,,Innallila ledhule,Prematho 
+s,r2,g2,m1,p,d1,n2,g3 d2,Natabhairavi ,,Em,,Innallila ledhule,Prematho 
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,,,Koncham neeru,Donga donga 
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,Cm,4,Maataraani mounam idhi,Maharshi
 s,r2,g2,m1,p,d1,n2,,Natabhairavi ,,F#m,4,Maatey manthramu,Seethakoka chiluka 
@@ -230,7 +216,7 @@ s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Bm,,Samaja varagamana ,Ala Vaikuntha puramu
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Cm,,Sangeetha sahitya samalamkruthey,Swathi kiranam 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Bm,,Shuddha brahma parathpara,Sri Ramadasu
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Bm,,Swaraaraga gangaa pravaahamey,Sarigamalu 
-s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,,,Thelavaaradheymoo swaami,Sruthilayalu 
+s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,Bm,,Thelavaaradheymoo swaami,Sruthilayalu 
 s,r2,g2,m1,p,d2,n2,g3,Kharaharapriya ,,Cm,,Telephone dhwanila,Bharatheeyudu 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,,,Thalli thandri nerpinatti telugu bhasha,Neeku nenu naaku nuvvu 
 s,r2,g2,m1,p,d2,n2,,Kharaharapriya ,,,,Thelisindhiley thelisindhiley nelaraja,Ramudu Bheemudu 
@@ -341,17 +327,13 @@ s,r2,g2,m1,p,d2,n3,,Gourimanohari ,,Cm,4,Paruvam vanaga,Roja
 s,r2,g2,m1,p,d2,n3,g3,Gourimanohari ,,C#m,,Rama rama rama neeli megha syama,Shivamani
 s,r2,g2,m1,p,d2,n3,n2,Gourimanohari ,,Dm,,Sirimalley puvva chinnari chilakamma,Padaharella vayasu 
 s,r2,g2,m1,p,,n3,,Gourimanohari ,Gowrishankar,Bm,6,Minneti sooredu vachenamma,Seethakoka chiluka 
-s,r2,g2,m1,p,d3,n3,,Varunapriya ,,,,,
-s,r2,g3,m1,p,d1,n1,,Mararanjani ,,,,,
 s,r2,g3,m1,p,d1,n2,,Charukesi ,,D,,Aada janmaku enni sookaaloo,Dhalapathi
 s,r2,g3,m1,p,d1,n2,,Charukesi ,,C#,,Meghama,Prayanam 
 s,r2,g3,m1,p,d1,n2,,Charukesi ,,,,Ragam thanam pallavi,Sankarabharanam 
 s,r2,g3,,p,d1,n2,,Charukesi ,?,F,6,Theli manchu kurisindhi,Swathi kiranam 
 s,r2,g3,m1,p,d1,n3,,Sarasangi ,,G,,Vachchey vachchey nalla mabbullaara,Anand
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Aaduthu padhuthu pani chesthuntey,Thodi kodallu 
 s,r2,g3,m1,p,d2,n2,d1,Harikambhoji ,,G,6,Aamani paadavey haayiga,Geethanjali 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,F#,,Andhagaada andhagada,Gharshana
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Bhaley chansuley lucky chansuley,Illarikam 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,E,,Chukkalaaraa chuupullaaraa,Aapatbaandhavudu
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Dobuchulatelara gopala,Priyuralu pilichindhi 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,E,,Ee janmame ruchi,Ulavacharu biriyani
@@ -362,13 +344,11 @@ s,r2,g3,m1,p,d2,n2,m2,Harikambhoji ,,D,,Gunjukunnaa ninney yedhalookey,Kadali
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Ikshvaku kula thilaka ikanaina,Ramadasu keerthana 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Janani janma bhoomischa,Bobbili puli 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,F#,,Kannullonii ruupamey,Ninney pellaadatha
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Maaya machindra,Bharatheeyudu 
+s,r2,g3,m1,p,d2,n2,g2 d1 n3,Harikambhoji ,,A#,,Maaya machindra,Bharatheeyudu 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,D,,Mudhdhabanthi poolu petti,Kalasi vuntey kaladhu sukhamu 
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Naa madhi ninnu pilichindhi gaanamai,Aaradhana 
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Naa manasemo naa matey vinadanta,Prema pavuralu 
+s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Naa madhi ninnu pilichindhi,Aaradhana 
 s,r2,g3,m1,p,d2,n2,d1,Harikambhoji ,,F,,Nee koosame ney jeevinchunadhi,Maya bazaar 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,D,,O vana padithey,Merupu kalalu 
-s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,,,Paara hushaar,Swayam krushi 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,E,,Prathi rathri vasantha rathri,Eka veera 
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,A#,,Raye Raye Raye Saloni,Maryada Ramanna
 s,r2,g3,m1,p,d2,n2,,Harikambhoji ,,A,,Roja roja,Premikula roju 
@@ -382,6 +362,7 @@ s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C#,,Aadhi bhikshuvu vadini edhi koredhi,S
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,A,,Aamani ruthuvu vachinadhi,Jodha akbar
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,G#,,Andhaalaloo ahoo mahoodhayam,Jagadheyka viirudu athilooka sundhari
 s,r2,g3,,p,d2,,n3?,Harikambhoji ,Mohanam ,D#,,Arey rey manase maarey,Happy days 
+s,r2,g3,,p,d2,,g2 m1,Harikambhoji ,Mohanam ,E,,Bhaley chansuley lucky chansuley,Illarikam 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C,,Chandana charchita,Tenali ramakrishna 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C#,,Cheri yasodhaku sisuvithadu,Swarna kamalam 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C#,,Chinnadana osi chinnadana,Prema lekha 
@@ -393,11 +374,12 @@ s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,D,,Kadhiley kaalama kasepu aagavamma,Pedh
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C#,,Lahiri lahiri lahirilo,Maya bazar 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,D,,Madhilo veenalu mrogey,Aatmeeyulu 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,B,,Manasu parimalinchaney,Sri Krishna arjuna yuddham 
-s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,G#,,Ne jatha leka picchidi kadha mansanta,Prema pavuralu
+s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,G#,,Nee jatha leka picchidi kadha mansanta,Prema pavuralu
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,F,,Ney padithey lokamey padadha,Missamma 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,D,,Ninnu kori varnam,Gharshana 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,A,,Oh my friend,Happy days 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,F,,Oka brundhavanam,Gharshana
+s,r2,g3,,p,d2,,m1 n2,Harikambhoji ,Mohanam ,A,,Paara hushaar,Swayam krushi 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,C,,Podagantimayya mimmu,Annamayya 
 s,r2,g3,,p,d2,,,Harikambhoji ,Mohanam ,E,,Poriginti mangala gowri,Subhalagnam
 s,r2,g3,,p,d2,,g2 m1 n3,Harikambhoji ,Mohanam ,C,,Shivani bhavani sarvani,Swathi kiranam 
@@ -513,55 +495,28 @@ s,r2,,m1,p,d2,,,Sankarabharanam ,Shuddha Saveri ,Fsus,,Gudi gantalu mrogina vela
 s,r2,,m1,p,d2,,,Sankarabharanam ,Shuddha Saveri ,Csus,,Samayaniki thagu,Seetharamayyagari Manavaralu 
 s,r2,,m1,p,d2,,,Sankarabharanam ,Shuddha Saveri ,D#sus,,Vaasantha sameeram la,Ruthuragalu
 s,r2,g3,m1,p,,n3,,Sankarabharanam ,Vilasini,A,,Priya ninu choodaleka,Prema lekha 
-s,r2,g3,m1,p,d3,n3,,Naganandini ,,,,,
-s,r3,g3,m1,p,d1,n1,,Yagapriya ,,,,,
-s,r3,g3,m1,p,d1,n2,,Ragavardhini ,,,,,
-s,r3,g3,m1,p,d1,n3,,Gangeyabhushani ,,,,,
 s,r3,g3,m1,p,d2,n2,,Vagadheeswari ,,D,,Vache vache vana,Kathanayakudu 
 s,r3,g3,m1,p,d2,n3,,Shulini ,,D,,Sasivadane sasivadane,Iddaru 
 s,r3,g3,m1,p,d3,n3,,Chalanata ,,C,,Chennai chendrama,Amma nanna o tamil ammayi 
 s,r3,g3,m1,p,d3,n3,,Chalanata ,,F#,,Maha ganapathim manasa smarami,Raagam
 s,r3,g3,m1,p,d3,n3,,Chalanata ,,C,,Pranathi pranathi pranava nadha,Swathi kiranam 
-s,r1,g1,m2,p,d1,n1,,Salagam ,,,,,
-s,r1,g1,m2,p,d1,n2,,Jalarnavam ,,,,,
-s,r1,g1,m2,p,d1,n3,,Jhalavarali ,,,,,
-s,r1,g1,m2,p,d2,n2,,Navaneetam ,,,,,
-s,r1,g1,m2,p,d2,n3,,Pavani ,,,,,
-s,r1,g1,m2,p,d3,n3,,Raghupriya ,,,,,
-s,r1,g2,m2,p,d1,n1,,Gavambhodi ,,,,,
-s,r1,g2,m2,p,d1,n2,,Bhavapriya ,,,,,
 s,r1,g2,m2,p,d1,n3,,Shubhapantuvarali ,,C,,Venuvai vachanu bhuvananiki,Matrudevobhava 
 s,r1,g2,m2,p,d1,n3,,Shubhapantuvarali ,,F,,Maha prana deepam sivam sivam,Sri manjunada 
 s,,g2,m2,p,,n3,,Shubhapantuvarali ,Parpathi,Cm,,Oohalu gusa gusalade,Bandipotu 
-s,r1,g2,m2,p,d2,n2,,Shadvidamargini ,,,,,
-s,r1,g2,m2,p,d2,n3,,Suvarnangi ,,,,,
-s,r1,g2,m2,p,d3,n3,,Divyamani ,,,,,
-s,r1,g3,m2,p,d1,n1,,Dhavalambari ,,,,,
-s,r1,g3,m2,p,d1,n2,,Namanarayani ,,,,,
 s,r1,g3,m2,p,d1,n3,,Kamavardani ,,B,,Dhinakara subhakara deva,Vinayaka chavithi 
 s,r1,g3,m2,p,d1,n3,,Kamavardani ,,G,,Nenu saitham prapamchagniki,Tagore 
 s,r1,g3,m2,p,d1,n3,,Kamavardani ,,F,,Om jeevana vahini sanani,Gangotri 
-s,r1,g3,m2,p,d2,n2,,Ramapriya ,,,,,
-s,r1,g3,m2,p,d2,n3,,Gamanashrama ,,,,,
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,C,,Dai dai dakshayini,Raja simham
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,B,,Haayi haayiga aamani paadey,Suvarna sundhari 
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,C,,Kila kila kila kila kila paduchuko kila,Pelli sandhadi 
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,G,,Muddha banthi poochenule,Dalapathi 
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,D,,Telugu padhaniki janmadhinam,Annamayya 
 s,r1,g3,m2,,d2,n3,,Gamanashrama ,Hamsanandhi,D,,Vedam anuvanuvuna nadham,Sagara sangamam 
-s,r1,g3,m2,p,d3,n3,,Vishwambari ,,,,,
-s,r2,g2,m2,p,d1,n1,,Shamalangi ,,,,,
 s,r2,g2,m2,p,d1,n2,,Shanmukhapriya ,,E,,Thakita thadhimi,Sagara sangamam 
-s,r2,g2,m2,p,d1,n3,,Simhendramadhyamam ,,,,,
 s,r2,g2,m2,p,d2,n2,,Hemavati ,,Em,,Jallantha thullintha,Geethanjali 
 s,r2,g2,m2,p,d2,n3,,Dharmavati ,,D#m,,Andela ravamidhi,Swarna kamalam 
 s,r2,g2,m2,p,d2,n3,,Dharmavati ,,Dm,,Kontegadni kattuko,Gentleman 
-s,r2,g2,m2,p,d3,n3,,Neetimati ,,,,,
-s,r2,g3,m2,p,d1,n1,,Kantamani ,,,,,
-s,r2,g3,m2,p,d1,n2,,Rishabhapriya ,,,,,
-s,r2,g3,m2,p,d1,n3,,Latangi ,,,,,
 s,r2,,m2,p,,n3,"d1, d2",Latangi ,Skandamanorama,D#sus,7,Om namaha,Geethanjali 
-s,r2,g3,m2,p,d2,n2,,Vachaspati ,,,,,
 s,r2,g3,m2,p,d2,n3,,Mechakalyani ,,F,,Dorakuna ituvanti seva,Sankarabharanam 
 s,r2,g3,m2,p,d2,n3,,Mechakalyani ,,E,,Eenade edho ayyindhi,Prema
 s,r2,g3,m2,p,d2,n3,,Mechakalyani ,,D#,,Jaanavule nera jaanavule,Aditya 369
@@ -583,13 +538,6 @@ s,r2,g3,m2,p,d2,n3,,Mechakalyani ,,D#,,Uppongi poyindhi godhaavari,Godhaavari
 s,r2,g3,m2,p,d2,n3,"m1, n2",Mechakalyani ,,G,,Utti meedha koodu,Oke okkadu 
 s,r2,g3,m2,p,d2,n3,,Mechakalyani ,,E,,Yamuna thatilo,Dalapathi 
 s,r2,,m2,p,d2,n3,,Mechakalyani ,Saranga tharangini,C,,Yamuna theeram,Aanandh
-s,r2,g3,m2,p,d3,n3,,Chitrambari ,,,,,
 s,,g3,m2,p,,n3,,Chitrambari ,Amruthavarshini,B,,Aanathineeyara haraa,Swathi Kiranam 
 s,,g3,m2,p,,n3,,Chitrambari ,Amruthavarshini,C,,Hrudhayama kalusuko,Oka manasu
 s,,g3,m2,p,,n3,,Chitrambari ,Amruthavarshini,B,4,Kuriseynu virijalluley,Gharshana 
-s,r3,g3,m2,p,d1,n1,,Sucharitra ,,,,,
-s,r3,g3,m2,p,d1,n2,,Jyoti swarupini ,,,,,
-s,r3,g3,m2,p,d1,n3,,Dhatuvardani ,,,,,
-s,r3,g3,m2,p,d2,n2,,Nasikabhushani ,,,,,
-s,r3,g3,m2,p,d2,n3,,Kosalam ,,,,,
-s,r3,g3,m2,p,d3,n3,,Rasikapriya ,,,,,
