@@ -1,5 +1,7 @@
 # Ragas of Telugu songs
 
+http://sunilpeesapati.github.io/ragas_of_songs/
+
 ## Note:
 1. This list is only for the SCALE and not the actual RAGAM. For example, songs in the ragam Abheri are listed under Kharaharapriya. 
 2. Film songs occasionally deviate from the raga or scale. So, the list is valid only for some part of the songs.
